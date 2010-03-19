@@ -1,0 +1,1 @@
+<b><?=$user->username?> <i><?=$user->role?></i></b> <?=html::anchor('auth/logout', 'Logout')?>
